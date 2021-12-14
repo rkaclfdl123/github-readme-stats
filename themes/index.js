@@ -348,6 +348,14 @@ const themes = {
     text_color: "574038",
     bg_color: "F5E1C0",
   },
+  juko: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "b9fca8",
+    bg_color: "222531",
+    border_color: "e4e2e2",
 };
 
 module.exports = themes;
+
+
